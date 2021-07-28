@@ -1,5 +1,4 @@
 // Nicholas Dobmeier
-// njd170130 ~
 
 package Tickets;
 
